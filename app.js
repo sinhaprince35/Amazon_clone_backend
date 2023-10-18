@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 // Configure CORS to allow requests from a specific origin
-const allowedOrigins = ["https://amazon-clone-newton.netlify.app/"];
+const allowedOrigins = ["*"];
 app.use(cors({
   origin: function (origin, callback) {
     if (allowedOrigins.indexOf(origin) !== -1 || !origin) {
