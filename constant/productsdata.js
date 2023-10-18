@@ -116,9 +116,9 @@ const products = [
   },
   {
     id: "product7",
-    url: "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/01a6f53a-292a-47ce-bc3e-d1fef00feeb5/vu-tv.png",
+    url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gadgets360.com%2Fvu-gloled-55-inch-ultra-hd-led-android-smart-tv-55gloled-price-in-india-113017&psig=AOvVaw1CJ9Ued2pj2X1Xt4HQMAf7&ust=1697680360843000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODwvqi-_oEDFQAAAAAdAAAAABAH",
     detailUrl:
-      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/01a6f53a-292a-47ce-bc3e-d1fef00feeb5/vu-tv.png",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gadgets360.com%2Fvu-gloled-55-inch-ultra-hd-led-android-smart-tv-55gloled-price-in-india-113017&psig=AOvVaw1CJ9Ued2pj2X1Xt4HQMAf7&ust=1697680360843000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODwvqi-_oEDFQAAAAAdAAAAABAH",
     title: {
       shortTitle: "VU GLOLED SMART TV",
       longTitle:
